@@ -1,0 +1,8 @@
+# Java compiled files
+*.class
+
+# Eclipse output folder
+**/bin/
+
+# Log files
+*.log
